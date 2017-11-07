@@ -1,0 +1,13 @@
+h1{
+	background: crimson; 
+	color: blue;
+}
+
+a{
+	size: 10px;
+	color: green;
+}
+
+a:hover{
+	color:yellow;
+}
