@@ -38,4 +38,4 @@ def jobs():
         return "<a>Hér eru sýnd mynd   <img src='/static/butterfly.jpg'></a>"
 
 
-run(host='localhost', port=8080 , debug=True , Reloader=True)
+run(host='0.0.0.0', port=argv[1])
