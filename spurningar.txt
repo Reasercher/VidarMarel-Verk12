@@ -1,0 +1,33 @@
+Hugtök
+  1. Free hosting
+      Free hosting er þar sem þú getur notað net án þess að borga fyrir það, hinsvegar þá sýnir það þér oft margar auglýsingar. 
+      Samt eru mörg sem að nota ef til vill ekki auglýsingar sem þú getur fundið sem að þú getur hinsvegar aðeins notað ákveðið 
+      mikið áður en þú hættir að geta notað það.
+  2. Shared hosting
+      Shared hosting er þar leyfirðu öðrum að tengjast við sama net í gegnum einn miðlara. það leyfir einnig öðrum að nota RAM og 
+      harða diskinn en þeir geta hinsvegar ekki komist inn í skjöl sem eru hjá þér
+  3. Virtual hosting
+      Virtual hosting er aðferð til að hýsa mörg lén á einum miðlara. það leyfir einum miðlara að deila með sér gögnum eins og minni
+      og örgjörva lotur án þess að þurfa alla þjónustu veitt frá sama host.
+  4. Dedicated hosting
+      dedicated hosting er týpa af vefþjónustu þar sem aðeins einn hefur aðgang sem er ekki deilt með öðrum. Það er sveigjanlegra 
+      heldur en Shared hosting, þar sem félög hafa fulla stjórn yfir miðlaranum.
+  5. Collocated hosting
+      Collocated hosting er þar sem að þú borgar fyrirtæki fyrir að hosta serverinn þinn og borgar ákveðið mikið fyrir hversu
+      stórt pláss þú tekur með miðlaranum sem þú hefur gert en það fer líka stundum eftir hvaða fyrirtæki þú velur hvað þú 
+      borgar mikið.
+  6. Ecommerce hosting
+      Ecommerce hosting er notað til að gera rafrænar viðskipta síður. Hún er öðruvísi vegna þörfar á meiru en web hosting hefur.
+      Það er T.D. SSL, gagnagrunnsstuðning, innkaupahugbúnaður, Borgunaraðferð, lögun, virkni og fleira sem web hosting hefur ekki
+Spurningar
+  1. Vefhýsing
+      1. Það sem er nauðsynlegt er að fá nafn þeirra notanda svo þeir geti skráð hver notandi er, 
+      2. þeir þurfa mail svo þeir geti sent þeim ef eitthvað kemur uppá eða um einhver önnur málefni,
+      3. notandi þarf einnig að velja hostinn af hvaða tegund hann er og
+      4. notendur þurfa líka að skoða að þeir gefi af sér verndunnar réttinn sem að flyst yfir á fyrirtækið sem tekur yfir henni
+  2. Athygli til vefsíðu
+      1. Þú þarft að hafa í huga hvaða aldurshóp vefsíðan þín á að höfða til og 
+      getur ef til vill aflað þér upplýsinga um hvað þessi aldurshópur vill nú til dags á sjá og vill fá frá netinu
+      2. Svo eftir að hafa aflað þeirra upplýsinga þá geturðu ákvarðað hvernig síðu þú býrð til sem að 
+      fer nær alltaf eftir hvaða aldurshóp þú hefur ákveðið að höfða til.
+      
